@@ -17,7 +17,7 @@ After applying filtering, it displays matched results in console.
 
 ## Example
 ```js
-customFilter(dataArray, filteringObject){
+customFilter(dataArray, filteringObject) {
 
     //your logic
 
